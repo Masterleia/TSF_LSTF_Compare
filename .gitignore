@@ -137,3 +137,5 @@ dataset/
 checkpoints/
 
 *result.txt
+
+/.idea
